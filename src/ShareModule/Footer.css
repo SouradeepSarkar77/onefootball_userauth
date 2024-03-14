@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=REM&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
+
+
+
+.footer{
+    background-color:#2f3640;
+}
+.footer_icon{
+text-align: left;
+margin-left: 15px;
+margin-top: 10px;
+}
+.card-title{
+    text-align: justify;
+    font-weight: bold;
+font-size: 14px;
+font-family: 'REM', sans-serif;
+}
+.card-text{
+    text-align: justify;
+font-size: 12px;
+font-family: 'REM', sans-serif;
+}
+.follow_cards{
+
+padding: 30px;
+display: flex;
+flex-wrap: wrap;
+gap: 20px;
+justify-content: center;
+
+}
+.footer_icon:hover{
+    cursor: pointer;
+}
+.card-title:hover{
+    cursor: pointer;
+}
+.card-text:hover{
+    cursor: pointer;
+}
+
+.footer_title{
+    font-weight:bolder;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    text-align: center;
+    padding-top: 25px;
+}
+
+.footer_links{
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: justify;
+    gap: 30px;
+    justify-content:space-evenly;
+    padding-bottom: 30px;
+
+}
+.link_cards{
+    width: 200px;
+    font-family: 'REM', sans-serif;
+}
+.footer_endtext{
+    color: #acafb1;
+    font-family: 'REM', sans-serif;
+    padding-bottom: 30px;
+    padding-top: 20px;
+}

@@ -1,0 +1,39 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=REM&display=swap');
+
+.home_heading3{
+    text-align: justify;
+    margin-left: 30px;
+    padding-top: 30px;
+    font-size: 22px;
+    font-weight: bolder;
+    font-family: 'Montserrat', sans-serif;
+    color: #57606f;
+}
+.teams_menu{
+    padding: 20px 0px 20px 0px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 20px;
+}
+.first_subheading{
+    font-size: 18px;
+    margin-bottom: 20px;
+    font-family: 'Montserrat', sans-serif;
+    color: #57606f;
+}
+table{
+    text-align: justify;
+    font-family:'REM', sans-serif;
+}
+.table_heading{
+   font-weight: bold;
+    font-family:'REM', sans-serif;
+    color: #192a56;
+}
+.card-header{
+    font-family:'REM', sans-serif;
+    
+}

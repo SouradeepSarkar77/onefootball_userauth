@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=REM&display=swap');
+
+
+.maintext_1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    text-align: justify;
+    background: linear-gradient(110deg, #3b85fd 20%, #eaeae500 60%);
+    padding: 10px;
+}
+
+.subtext_1 {
+    font-family: 'REM', sans-serif;
+    font-size: 25px;
+    text-align: justify;
+
+
+}
+
+.box_content1 {
+
+    padding: 40px;
+
+}
+
+.maintext_2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    text-align: justify;
+    background: linear-gradient(110deg, #3b85fd 20%, #eaeae500 60%);
+    padding: 10px;
+
+}
+
+.subtext_2 {
+    font-family: 'REM', sans-serif;
+    font-size: 25px;
+    text-align: justify;
+
+
+}
